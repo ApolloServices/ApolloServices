@@ -18,21 +18,21 @@ I am also familiar with a variety of computer vision frameworks and streaming fr
 
 ## Programming Language
 
-- Machine Learning
+- Machine Learning<br> 
   Python, R, Java, Javascript, C/C++
 
-- Bot Developing
+- Bot Developing<br>
   Python, Java, C/C++, 
 
-- Video Streaming (Library & Platforms)  
+- Video Streaming (Library & Platforms)<br>
   FFmpeg, WebRTC, Wowza, Red5pro, bunny.net, Castr.io, Azure Media Services, Amazon Elastic Transcoder,DRM and so on.
 
-- Website developing
-  Frontend : Html, CSS, Javascript, React, Vue, jQuery
-  Backend : Node.js, Python, PHP, Java, Golang, C#,
-  Database : MySQL, PostgreSQL, MongoDB, Azure SQL Database, Amazon Relational Database Service, Amazon DynamoDB, Redis
-  Frameworks : Express.js, Laravel, Django, Ruby on Rails, Flask, Meteor, CakePHP, CodeIgniter
-  Cloud Hosting Services for publishing : AWS, Azure, DigitalOcean, Hostinger, BlueHost, A2 Hosting, GoDaddy, DreamHost
+- Website developing<br>
+  Frontend : Html, CSS, Javascript, React, Vue, jQuery<br>
+  Backend : Node.js, Python, PHP, Java, Golang, C#,<br>
+  Database : MySQL, PostgreSQL, MongoDB, Azure SQL Database, Amazon Relational Database Service, Amazon DynamoDB, Redis<br>
+  Frameworks : Express.js, Laravel, Django, Ruby on Rails, Flask, Meteor, CakePHP, CodeIgniter<br>
+  Cloud Hosting Services for publishing : AWS, Azure, DigitalOcean, Hostinger, BlueHost, A2 Hosting, GoDaddy, DreamHost<br>
 
 - Desktop and mobile developing
 
