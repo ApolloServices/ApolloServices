@@ -34,21 +34,16 @@ I am also familiar with a variety of computer vision frameworks and streaming fr
   Frameworks : Express.js, Laravel, Django, Ruby on Rails, Flask, Meteor, CakePHP, CodeIgniter<br>
   Cloud Hosting Services for publishing : AWS, Azure, DigitalOcean, Hostinger, BlueHost, A2 Hosting, GoDaddy, DreamHost<br>
 
-- Desktop and mobile developing
-
-  Desktop : C/C++, Java, Electron.js
-  Mobile : Java, Flutter, React Native
+- Desktop and mobile developing<br>
+  Desktop : C/C++, Java, Electron.js<br>
+  Mobile : Java, Flutter, React Native<br>
 
 ## Contacts
 
-- Email : kreagerservice21@gmail.com
-
-- Skype : live:.cid.c1a4be3c8050e568
-
-- Telegram : @apolloservice21
-
-- Discord : apolloservice
-
+- Email : kreagerservice21@gmail.com<br>
+- Skype : live:.cid.c1a4be3c8050e568<br>
+- Telegram : @apolloservice21<br>
+- Discord : apolloservice<br>
 - phone : +1 412 567 3688
 
 ## Others
