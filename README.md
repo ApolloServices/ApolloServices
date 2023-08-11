@@ -50,8 +50,10 @@ I am also familiar with a variety of computer vision frameworks and streaming fr
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/YVSyGXb.png" alt="Badge" width="100" /></td>
-    <td><img src="https://imgur.com/DoWqh11.png" alt="Badge" width="100" /></td>
-    <td><img src="https://imgur.com/pc72rUD.png" alt="Badge" width="100" /></td>
+    <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGgpXKYYm2W5uGiIw5MsD5JWRFY8ztXvIsZuHRSfY8wVYYlkJx" alt="Badge" width="150" /></td>
+    <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGgpXKYYm2W5uGiIw5MsD5JWRFY8ztXvIsZuHRSfY8wVYYlkJx" alt="Badge" width="150" /></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMTAF36n7n_CaIKx49S3WnnC7rBAKk4ofIn9PaIcAZDP7bYjU" alt="Badge" width="150" /></td>
+    <td><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXOh1bh5LZLF89vcAPAyUc7s7F724syBSLv1iPIDmUJc2jqL9q" alt="Badge" width="150" /></td>
+    <td><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3LeR8dfybNSoz0cWVJSvp6OUtU2c2C8Ba1f5VHtcxCfsTgMA5" alt="Badge" width="150" /></td>
   </tr>
 </table>
