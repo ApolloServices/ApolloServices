@@ -50,8 +50,8 @@ I am also familiar with a variety of computer vision frameworks and streaming fr
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/YVSyGXb.png" alt="Badge" /></td>
-    <td><img src="https://imgur.com/DoWqh11.png" alt="Badge" /></td>
-    <td><img src="https://imgur.com/pc72rUD.png" alt="Badge" /></td>
+    <td><img src="https://imgur.com/YVSyGXb.png" alt="Badge" width="100" /></td>
+    <td><img src="https://imgur.com/DoWqh11.png" alt="Badge" width="100" /></td>
+    <td><img src="https://imgur.com/pc72rUD.png" alt="Badge" width="100" /></td>
   </tr>
 </table>
