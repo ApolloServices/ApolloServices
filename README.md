@@ -8,11 +8,11 @@ I am also familiar with a variety of computer vision frameworks and streaming fr
 
 - Development of various object detection, tracking and recognition products using deep learning and computer vision:
   
-- Development of various bots using AI, such as trading bots, checkout bots, chatbots, whatsApp bots, and telegram bots.
+- Development of various bots using AI, such as trading bots, checkout bots, chatbots and automation bots.
 
 - Development of various streaming products, such as VOD streaming, live streaming, video conference, VR and AR products.
 
-- Development of various sites such as eCommerce website, Business website, Blog website, Event website, Community website, Travel website amd Community website
+- Development of various sites such as eCommerce website, Business website, Blog website, Event website, Community website, Travel website and Community website
 
 - Development of various desktop and mobile application.
 
