@@ -43,6 +43,7 @@ I am also familiar with a variety of computer vision frameworks and streaming fr
 - Email : kreagerservice21@gmail.com<br>
 - Skype : live:.cid.c1a4be3c8050e568<br>
 - Telegram : @apolloservice21<br>
+- Whatsapp : +1 (402) 913-6771
 - Discord : apolloservice<br>
 - phone : +1 412 567 3688
 
